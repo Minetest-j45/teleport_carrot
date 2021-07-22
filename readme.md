@@ -4,7 +4,8 @@
 This mod is makes a craftable eatable item that has a 1 in 10 chance of teleporting you to a nearby location. It was inspired by chorus fruit in Minecraft.
 
 ## License
-LGPL 2.1
+Code- j45, LGPL 2.1
+Textures- j45, CC-BY-NC-SA 3.0
 
 ## Dependencies
 Farming
