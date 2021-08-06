@@ -5,7 +5,7 @@ This mod is makes a craftable eatable item that has a 1 in 10 chance of teleport
 
 ## License
 Code- j45, LGPL 2.1
-Textures- j45, CC-BY-NC-SA 3.0
+Textures- j45, CC-BY-SA 3.0
 
 ## Dependencies
 Farming
