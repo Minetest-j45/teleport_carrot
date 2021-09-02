@@ -1,5 +1,9 @@
 # Teleport carrot
 
+
+[![ContentDB](https://content.minetest.net/packages/j45/teleport_carrot/shields/title/)](https://content.minetest.net/packages/j45/teleport_carrot/)
+[![ContentDB](https://content.minetest.net/packages/j45/teleport_carrot/shields/downloads/)](https://content.minetest.net/packages/j45/teleport_carrot/)
+
 ## What this mod does
 This mod is makes a craftable eatable item that has a 1 in 10 chance of teleporting you to a nearby location. It was inspired by chorus fruit in Minecraft.
 
